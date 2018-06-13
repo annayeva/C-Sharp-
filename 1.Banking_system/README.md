@@ -4,4 +4,5 @@ In the following assignment I supposed to build a part of a banking system ased 
 
 <p align="center">
   <img src="uml1.png"/>
+  <img src="uml2.png"/>
 </p>
