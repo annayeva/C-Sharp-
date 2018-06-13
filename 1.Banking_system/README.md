@@ -1,4 +1,4 @@
-<2>Building a part of a banking system</h2>
+<h2>Building a part of a banking system</h2>
 
 In the following assignment I supposed to build a part of a banking system ased on the UML diagram:
 
