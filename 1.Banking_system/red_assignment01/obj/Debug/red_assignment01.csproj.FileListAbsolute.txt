@@ -1,0 +1,6 @@
+c:\users\ilona\documents\visual studio 2015\Projects\red_assignment01\red_assignment01\bin\Debug\red_assignment01.exe.config
+C:\Users\Ilona\Documents\Visual Studio 2015\Projects\red_assignment01\red_assignment01\bin\Debug\red_assignment01.exe
+C:\Users\Ilona\Documents\Visual Studio 2015\Projects\red_assignment01\red_assignment01\bin\Debug\red_assignment01.pdb
+C:\Users\Ilona\Documents\Visual Studio 2015\Projects\red_assignment01\red_assignment01\obj\Debug\red_assignment01.csprojResolveAssemblyReference.cache
+C:\Users\Ilona\Documents\Visual Studio 2015\Projects\red_assignment01\red_assignment01\obj\Debug\red_assignment01.exe
+C:\Users\Ilona\Documents\Visual Studio 2015\Projects\red_assignment01\red_assignment01\obj\Debug\red_assignment01.pdb

@@ -1,0 +1,17 @@
+﻿@model IEnumerable<WebApplication433.Models.Todo>
+@{
+    ViewBag.Title = "Active";
+}
+
+<div style="font-size: 150%; text-align: center">
+<h2>Active</h2>
+    @for (int i = 0; i < Model.Count(); i++)
+    {
+        if (!Model.ElementAt(i).Done)
+        {
+            <p>@Html.ActionLink(Model.ElementAt(i).Description, "Details", new { id = Model.ElementAt(i).TodoId }) | @Html.ActionLink("done?", "Done", new { id = Model.ElementAt(i).TodoId })</p><hr />
+
+        }
+    }
+</div>
+

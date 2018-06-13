@@ -1,0 +1,16 @@
+﻿@model WebApplication433.Models.Todo
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<div>
+    <form action="" method="post">
+       @Html.EditorFor(model => model.Description)
+        @*<input type="text" name="description" value="" placeholder="Description"/>*@
+        <input type="submit" name="name" value="CREATE" />
+    </form>
+</div>
+
+<a href="http://localhost:56422/ToDos/Index">Back to list</a>
+
